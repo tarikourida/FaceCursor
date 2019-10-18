@@ -9,3 +9,5 @@ The application fetches feed from the user’s webcam and is controlled with the
       •	Winking with your right eye -> right click on a mouse
       •	Winking with your left eye -> left click on a mouse
       •	Opening your mouth -> Click ‘confirm’, ‘ok‘, ‘close’ etc.
+
+Have a look!
